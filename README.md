@@ -1,2 +1,3 @@
-# Trujillo-s
-My personal repository
+# Hi Welcome to My GitHub!
+
+I'm Fredy A.

@@ -4,6 +4,8 @@
 
 I design and run practical software for real businesses and markets — from Magento e-commerce operations to AI-assisted analytics and algorithmic trading systems.
 
+> **ES:** Soy Fredy A. (Yderf), de Colombia. Construyo y opero software práctico para negocios reales y mercados: operaciones Magento, inteligencia de negocio y sistemas de trading. Me interesa automatizar lo repetitivo y medir antes de confiar.
+
 ---
 
 ## 🔭 What I work on
@@ -63,14 +65,10 @@ I design and run practical software for real businesses and markets — from Mag
 ## 🤝 Connect
 
 - **GitHub:** [@Trujillofa](https://github.com/Trujillofa)
+- **X:** [@Fatq94](https://x.com/Fatq94)
+- **Email:** [trujillofa@gmail.com](mailto:trujillofa@gmail.com)
 - **Web:** [depositotrujillo.co](https://www.depositotrujillo.co)
-
-<!-- Optional — uncomment and fill when ready:
-- **Email:** you@example.com
-- **LinkedIn:** https://linkedin.com/in/your-handle
-- **X / Twitter:** @yourhandle
-- **Location:** City, Country
--->
+- **Location:** Colombia
 
 ---
 
